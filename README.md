@@ -32,13 +32,13 @@ The **Townbush Pharmacy Website** was designed to provide customers with a conve
    </connectionStrings>
 3. Build and run the project in Visual Studio.
 
-### Screenshot
+### 🖼️ Screenshots
 
-![](./Pictures/project-1.jpg)
-![](./Pictures/project%20login.png)
-![](./Pictures/project%20register%20new%20user.png)
+| Home Page | Login Page | Register Page |
+|------------|-------------|----------------|
+| ![](./Pictures/project-1.jpg) | ![](./Pictures/project%20login.png) | ![](./Pictures/project%20register%20new%20user.png) |
 
-
+---
 
 ### Built with
 
