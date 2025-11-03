@@ -8,10 +8,10 @@ The project focuses on creating a **pharmacy website** with user registration, a
 ## 💡 About the Project
 
 The **Townbush Pharmacy Website** was designed to provide customers with a convenient digital experience for:
-- Browsing pharmacy products
-- Creating user accounts and logging in securely
-- Managing prescriptions and orders
-- Enhancing user accessibility with a mobile-first design
+- Browsing pharmacy products  
+- Creating user accounts and logging in securely  
+- Managing prescriptions and orders  
+- Enhancing user accessibility with a mobile-first design  
 
 ---
 
@@ -42,16 +42,16 @@ The **Townbush Pharmacy Website** was designed to provide customers with a conve
 
 ### Built with
 
--Semantic HTML5 markup
--CSS custom properties for styling
--ASP.NET Web Forms Framework
--JavaScript for interactivity
--Mobile-first workflow for responsive design
--Visual Studio IDE
+-Semantic HTML5 markup  
+-CSS custom properties for styling  
+-ASP.NET Web Forms Framework  
+-JavaScript for interactivity  
+-Mobile-first workflow for responsive design  
+-Visual Studio IDE  
 
 ## Authors
--Mnqobi Thusi, 
--Mohammed Aqeel Ismail, 
--Tulliyah Pakarri, 
+-Mnqobi Thusi,   
+-Mohammed Aqeel Ismail,   
+-Tulliyah Pakarri,   
 -Umar-Farooq, 
--Trineh
+-Trineh  
