@@ -32,7 +32,7 @@ The **Townbush Pharmacy Website** was designed to provide customers with a conve
    </connectionStrings>
 3. Build and run the project in Visual Studio.
 
-### 🖼️ Screenshots
+### Screenshots
 
 | Home Page | Login Page | Register Page |
 |------------|-------------|----------------|
