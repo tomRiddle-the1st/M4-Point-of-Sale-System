@@ -13,4 +13,4 @@
 
 ## Author
 
-- Website - [Mnqobi Thusi](https://www.mnqobithusi.dev), Aqeel Mohammed, Tulliyah Pakarri, Umar-Farooq, Trineh
+- Website - Mnqobi Thusi, Mohammed Aqeel Ismail, Tulliyah Pakarri, Umar-Farooq, Trineh
